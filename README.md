@@ -7,3 +7,7 @@
 ## Урок 4. Визуализация данных в Matplotlib.
 
 [Практическое задание](https://github.com/TanXmas/gb_StudyCourse_Python_for_DS/blob/master/L04/L04HW.ipynb)
+
+## Урок 6. Обучение с учителем в Scikit-learn
+
+[Практическое задание]()
