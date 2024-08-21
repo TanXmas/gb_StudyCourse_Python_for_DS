@@ -11,3 +11,7 @@
 ## Урок 6. Обучение с учителем в Scikit-learn
 
 [Практическое задание](https://github.com/TanXmas/gb_StudyCourse_Python_for_DS/blob/master/L06/L06HW.ipynb)
+
+## Урок 8. Обучение без учителя в Scikit-learn
+
+[Практическое задание](https://github.com/TanXmas/gb_StudyCourse_Python_for_DS/blob/master/L08/L08HW.ipynb)
